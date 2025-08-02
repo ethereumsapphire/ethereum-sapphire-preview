@@ -1,0 +1,13 @@
+{
+    "name": "Ethereum Sapphire",
+    "symbol": "ETHS",
+    "description": "The future of Ethereum in sapphire tone. Built for community trust and next-generation tokenomics.",
+    "image": "https://ethereumsapphire.github.io/logo.png",
+    "external_url": "https://ethereum.org",
+    "decimals": 9,
+    "tags": [
+        "sapphire",
+        "ethereum",
+        "community"
+    ]
+}
